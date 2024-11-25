@@ -10,9 +10,9 @@ export const metadata: Metadata = {
   title: 'Abdul Rehman Portfolio',
   description: 'A distinctive portfolio showcasing my work and experience',
   icons: {
-    icon: '/favicon.ico',
-    shortcut: '/favicon.ico',
-    apple: '/favicon.ico',
+    icon: '/favicon.jpg',
+    shortcut: '/favicon.jpg',
+    apple: '/favicon.jpg',
   },
 };
 
